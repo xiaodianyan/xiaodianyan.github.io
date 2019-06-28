@@ -19,7 +19,7 @@ You may find all my publications in the following list.
 
 ### Academic Friend
 
-Yang Yu is my co-worker and friend, you may visit his [website](aaaaa)
+Yang Yu is my co-worker and friend, you may visit his website
 
 ### Contact me
 
