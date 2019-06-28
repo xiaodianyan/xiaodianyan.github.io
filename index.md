@@ -1,4 +1,4 @@
-## Welcome to Dianyan Xiao's Homepages
+## Welcome to Dianyan Xiao (肖佃艳)'s Homepage
 
 ### About me
 
@@ -21,5 +21,5 @@ If you have any technical or academical issues for me, please do not hesitate to
 
 ### Related Link
 
-1. [Personal Google Academic File](https://scholar.google.com.hk/citations?user=AXSNymMAAAAJ&hl=zh-CN)
+1. [My Profile](https://scholar.google.com.hk/citations?user=AXSNymMAAAAJ&hl=zh-CN)
 2. [IACR](https://www.iacr.org/)
